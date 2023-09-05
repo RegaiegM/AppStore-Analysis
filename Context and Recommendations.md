@@ -3,7 +3,7 @@ Data Analytics project using SQL and the Apple Store dataset
 Business Case: By analyzing the Apple store data, help the client decide on what kind of app to build.
 
 # Recommendations
-### 1- Paid Apps generally achieve higher ratings than free ones. 
+## 1- Paid Apps generally achieve higher ratings than free ones. 
 This could be due to a number of reasons. Users who pay for an app might have higher engagement or derive value from the app.
 Therefore if the quality of the App is good, we can consider charging a certain amount for it.
 ### 2- Apps supporting a number of languages between 10 and 30 had better rating. 
