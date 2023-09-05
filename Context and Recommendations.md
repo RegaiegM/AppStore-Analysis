@@ -1,6 +1,6 @@
 # Apple-Store-Analysis
 Data Analytics project using SQL and the Apple Store dataset
-##Business Case: 
+## Business Case: 
 By analyzing the Apple store data, help the client decide on what kind of app to build.
 
 ## Recommendations
