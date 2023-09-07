@@ -1,7 +1,7 @@
-# Apple-Store-Analysis
-Data Analytics project using SQL and the Apple Store dataset
+# AppStore-Analysis
+Data Analytics project using SQL and the AppStore dataset
 ## Business Case: 
-By analyzing the Apple store data, help the client decide on what kind of app to build.
+By analyzing the AppStore data, help the client decide on what kind of app to build.
 
 ## Recommendations
 #### 1- Paid Apps generally achieve higher ratings than free ones. 
